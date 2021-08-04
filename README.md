@@ -7,6 +7,8 @@ The script takes the data from the above columns and calculates, per ticker,
 the average yearly change, percent change, and total stock volume.
 The script also highlights any ticker with a positive yearly change in green, and any ticker with a negative yearly change in red.
 
+![VBA_2016](https://user-images.githubusercontent.com/84537717/128252841-a67ff166-5974-4f53-ae50-da9f05f7c55d.PNG)
+
 The script then calculates which ticker had the greatest percentage increase, decrease, and total stock volume for the given year,
 and places this info in cells immediately next to the data set.  
 
