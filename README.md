@@ -1,5 +1,4 @@
-(# VBA-challenge)
-(VBA Homework Assignment)
+"Stock Market Analysis"
 
 This VBA script runs through 3 years of stock data (2014-2016) that includes 
 a ticker symbol, volume of stock, open price, and close price per year.
