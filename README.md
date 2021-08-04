@@ -9,3 +9,5 @@ The script also highlights any ticker with a positive yearly change in green, an
 
 The script then calculates which ticker had the greatest percentage increase, decrease, and total stock volume for the given year,
 and places this info in cells immediately next to the data set.  
+
+The results are stored in three separate images corresponding to the year and the full code is available for view in the final link.
